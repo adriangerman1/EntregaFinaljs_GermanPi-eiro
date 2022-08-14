@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./estilos/estilos.css">
+
+    <title>Almacen</title>
+
+</head>
+
+<body>
+    <!------------------------------------ Menu ------------------------------------------------------>
+
+    <nav class="navbar navbar-expand-lg bg-light sticky-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="./index.html">Almacen</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" onclick="mostar(6)" href="#">Todos los
+                            productos</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">Productos</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" onclick="mostar(1)">Yerbas y Endulzantes</a></li>
+                            <li><a class="dropdown-item" onclick="mostar(2)" href="#">Galletitas y Cereales</a></li>
+                            <li><a class="dropdown-item" onclick="mostar(3)" href="#">Aceites-Salsas-Harinas-Pastas</a>
+                            </li>
+                            <li><a class="dropdown-item" onclick="mostar(4)" href="#">Gaseosas</a></li>
+                            <li><a class="dropdown-item" onclick="mostar(5)" href="#">Vevidas Alcoholicas</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <a id="botonCarrito" title="ir al carrito" class="dropdown-item " href="./carrito.html"></a>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+
+    <!------------------------------------ Menu ------------------------------------------------------>
+
+    <!------------------------------------ Carga de productos ------------------------------------------------------>
+
+    <div class="container-fluid">
+
+        <div class="row ">
+
+            <h2 class="titulo text-center p-2 ">Bienvenidos</h2>
+            <img src="./img/super.jpg" width="150px" alt="gondolas">
+        </div>
+
+    </div>
+
+    <div id="box1" class="container">
+
+
+    </div>
+
+    <div id="box23"></div>
+
+    <!------------------------------------ Carga de productos ------------------------------------------------------>
+
+    <footer>
+
+        <div class="container-fluid">
+
+            <div class="row">
+
+                <div class="fot1 col-md-6">
+
+                    <h2 class="titulo text-center">Contactos</h2>
+                    <a href="https://www.facebook.com/"><img src="./img/face.png" class="redes rounded-circle m-5 p-10"
+                            width="50px" alt="Facebook"></a>
+                    <a href="https://www.instagram.com/"><img src="./img/insta.png"
+                            class="redes rounded-circle m-5 p-10" width="50px" alt="Instagram"></a>
+                    <a href="https://twitter.com/?lang=es"><img src="./img/twit.png"
+                            class="redes rounded-circle m-5 p-10" width="50px" alt="Twitter"></a>
+
+                </div>
+
+                <div class="fot1 col-md-6">
+
+                    <h2 class="titulo text-center p-2 rounded-4">Nuestros locales</h2>
+                    <iframe class="col-md-10 "
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13111.18102910535!2d-58.22348025000001!3d-34.76075005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1659741502293!5m2!1ses!2sar"
+                        width="200" height="200" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                </div>
+
+                <div class="fot1 col-md-12 ">
+
+                    <h2 class="titulo text-center p-5">copyright - all rights reserver 2022</h2>
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+    <!------------------------------------ Footer ------------------------------------------------------>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous">
+    </script>
+    <script src="./javaScrip/inicio.js"></script>
+
+</body>
+
+</html>

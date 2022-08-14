@@ -1,0 +1,40 @@
+[
+    {"id":1, "nom":"azucar Ledesma", "descripcion":"azucar fina", "precio":140, "imagen":"../img/azucar_ledesma.jpg"},
+    {"id":2, "nom":"Hileret", "descripcion":"edulcorante light", "precio":240, "imagen":"../img/Hileret.jpg"},
+    {"id":3, "nom":"Playadito", "descripcion":"Yerba mate", "precio":350, "imagen":"../img/playadito.jpg"},
+    {"id":4, "nom":"Union", "descripcion":"Yerba mate", "precio":310, "imagen":"../img/union.jpg"},
+    {"id":5, "nom":"Taragui", "descripcion":"Yerba mate", "precio":340, "imagen":"../img/taragui.jpg"},
+
+    {"id":6, "nom":"aceite Natura", "descripcion":"aceite de girasol ", "precio":350, "imagen":"../img/aceite_natura.jpg"},
+    {"id":7, "nom":"aceite Natura", "descripcion":"aceite de oliva", "precio":550, "imagen":"../img/aceite_oliva.jpg"},
+    {"id":8, "nom":"arroz Gallo", "descripcion":"arros largo fino", "precio":190, "imagen":"../img/arroz_gallo.jpg"},
+    {"id":9, "nom":"Harina Favorita", "descripcion":"harina 000", "precio":100, "imagen":"../img/harina_favorita000.jpg"},
+    {"id":10, "nom":"Ñoquis la Salteña", "descripcion":"ñoquis de papa", "precio":350, "imagen":"../img/ñoquis_lasalteña.jpg"},
+    {"id":11, "nom":"Harina", "descripcion":"Harina 0000", "precio":150, "imagen":"../img/harina_favorita0000.jpg"},
+    {"id":12, "nom":"Harina ", "descripcion":"Harina leudante", "precio":168, "imagen":"../img/harina_pizza_Pureza.jpg"},
+    {"id":13, "nom":"Campagnola", "descripcion":"Pure de tomate", "precio":150, "imagen":"../img/puere_tomate_Campagnola.jpg"},
+    {"id":14, "nom":"Arcor", "descripcion":"Pure de tomate", "precio":140, "imagen":"../img/pure_de_tomate_Arcor.jpg"},
+
+    {"id":15, "nom":"Baloncitos", "descripcion":"Cereal de chocolate", "precio":250, "imagen":"../img/Baloncitos.jpg"},
+    {"id":16, "nom":"Chocolinas", "descripcion":"Galletitas de chocolate", "precio":350, "imagen":"../img/Chocolinas.jpg"},
+    {"id":17, "nom":"Lincoln", "descripcion":"Galletitas", "precio":210, "imagen":"../img/Lincoln.jpg"},
+    {"id":18, "nom":"Mana", "descripcion":"Galletitas sabor vainilla", "precio":110, "imagen":"../img/mana.jpg"},
+    {"id":19, "nom":"Pepas Trio", "descripcion":"Galletitas", "precio":250, "imagen":"../img/pepas_Trio.jpg"},
+    {"id":20, "nom":"Skarchitos", "descripcion":"Sucaritas", "precio":170, "imagen":"../img/sucaritas_Skarchitos.jpg"},
+
+    {"id":21, "nom":"Pepsi", "descripcion":"gaseosa cola", "precio":250, "imagen":"../img/pepsi.jpg"},
+    {"id":22, "nom":"Sprite", "descripcion":"gaseosa lima", "precio":250, "imagen":"../img/sprite.jpg"},
+    {"id":23, "nom":"Schweppes Pomelo", "descripcion":"gaseosa pomelo", "precio":250, "imagen":"../img/schweppes.jpg"},
+    {"id":24, "nom":"CocaCola", "descripcion":"gaseosa cola 3L", "precio":290, "imagen":"../img/cocacola.jpg"},
+    {"id":25, "nom":"Fanta", "descripcion":"gaseosa naranja", "precio":250 , "imagen":"../img/fanta.jpg"},
+    
+    {"id":26, "nom":"Fernet Branca", "descripcion":"fernet 750CC", "precio":1250, "imagen":"../img/fernet_branca.jpg"},
+    {"id":27, "nom":"Gancia", "descripcion":"americano 990CC", "precio":750, "imagen":"../img/gancia.jpg"},
+    {"id":28, "nom":"Santa Julia", "descripcion":"vino tinto dulce ", "precio":500, "imagen":"../img/vino_santajulia.jpg"},
+    {"id":29, "nom":"Campari", "descripcion":"aperitivo 750CC", "precio":1200, "imagen":"../img/campari.jpg"},
+    {"id":30, "nom":"Cinzano", "descripcion":"Vermouth  Bianco  1L", "precio":750, "imagen":"../img/cinzano.jpg"}
+
+]
+
+
+
