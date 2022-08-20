@@ -1,5 +1,5 @@
 [
-    {"id":1, "nom":"azucar Ledesma", "descripcion":"azucar fina", "precio":140, "imagen":":./img/azucar_ledesma.jpg"},
+    {"id":1, "nom":"azucar Ledesma", "descripcion":"azucar fina", "precio":140, "imagen":":img/azucar_ledesma.jpg"},
     {"id":2, "nom":"Hileret", "descripcion":"edulcorante light", "precio":240, "imagen":"img/Hileret.jpg"},
     {"id":3, "nom":"Playadito", "descripcion":"Yerba mate", "precio":350, "imagen":"img/playadito.jpg"},
     {"id":4, "nom":"Union", "descripcion":"Yerba mate", "precio":310, "imagen":"img/union.jpg"},
