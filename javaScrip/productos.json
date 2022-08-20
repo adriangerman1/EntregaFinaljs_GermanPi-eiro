@@ -9,7 +9,7 @@
     {"id":7, "nom":"aceite Natura", "descripcion":"aceite de oliva", "precio":550, "imagen":"img/aceite_oliva.jpg"},
     {"id":8, "nom":"arroz Gallo", "descripcion":"arros largo fino", "precio":190, "imagen":"img/arroz_gallo.jpg"},
     {"id":9, "nom":"Harina Favorita", "descripcion":"harina 000", "precio":100, "imagen":"img/harina_favorita000.jpg"},
-    {"id":10, "nom":"Ñoquis la Salteña", "descripcion":"ñoquis de papa", "precio":350, "imagen":"/img/ñoquis_lasalteña.jpg"},
+    {"id":10, "nom":"Ñoquis la Salteña", "descripcion":"ñoquis de papa", "precio":350, "imagen":"img/ñoquis_lasalteña.jpg"},
     {"id":11, "nom":"Harina", "descripcion":"Harina 0000", "precio":150, "imagen":"img/harina_favorita0000.jpg"},
     {"id":12, "nom":"Harina ", "descripcion":"Harina leudante", "precio":168, "imagen":"img/harina_pizza_Pureza.jpg"},
     {"id":13, "nom":"Campagnola", "descripcion":"Pure de tomate", "precio":150, "imagen":"img/puere_tomate_Campagnola.jpg"},
@@ -24,7 +24,7 @@
 
     {"id":21, "nom":"Pepsi", "descripcion":"gaseosa cola", "precio":250, "imagen":"img/pepsi.jpg"},
     {"id":22, "nom":"Sprite", "descripcion":"gaseosa lima", "precio":250, "imagen":"img/sprite.jpg"},
-    {"id":23, "nom":"Schweppes Pomelo", "descripcion":"gaseosa pomelo", "precio":250, "imagen":"/img/schweppes.jpg"},
+    {"id":23, "nom":"Schweppes Pomelo", "descripcion":"gaseosa pomelo", "precio":250, "imagen":"img/schweppes.jpg"},
     {"id":24, "nom":"CocaCola", "descripcion":"gaseosa cola 3L", "precio":290, "imagen":"img/cocacola.jpg"},
     {"id":25, "nom":"Fanta", "descripcion":"gaseosa naranja", "precio":250 , "imagen":"img/fanta.jpg"},
     
